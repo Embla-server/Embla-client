@@ -20,4 +20,6 @@ Vanilla Tweaks    https://vanillatweaks.net/
 google: 
 	com.google.code.gson, com.squareup.okio:okio, com.squareup.okhttp3
 
+ Discord Game sdk4 java    https://github.com/JnCrMx/discord-game-sdk4j
+
 
