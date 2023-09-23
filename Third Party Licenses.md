@@ -1,7 +1,7 @@
 
 # Third Party Licenses
 
-fabric	https://github.com/FabricMC/fabric
+Fabric	https://github.com/FabricMC/fabric
 
 Mixin	https://github.com/SpongePowered/Mixin/
 
