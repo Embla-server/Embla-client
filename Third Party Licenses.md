@@ -22,4 +22,5 @@ google:
 
  Discord Game sdk4 java    https://github.com/JnCrMx/discord-game-sdk4j
 
+Better Ping Display    https://github.com/vladmarica/better-ping-display-fabric
 
